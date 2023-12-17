@@ -7,15 +7,26 @@ body {
     color:#ffffff 
 }
 
+.container {
+    max-width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center; 
+    justify-content: center;
+    text-align: center;
+    width: 400px;
+}
+
 h1 {
-    margin-top: 10px;
+    margin-top:10px;
     margin-bottom: 10px;
 }
 
 h2 {
     font-size: 50px;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 button {
@@ -24,11 +35,14 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 700px;
+    width: 400px;
     height: 100px;
     margin-bottom: 5px;
     border-radius: 50%;
     height: 70vh
+}
+.btns{
+    
 }
 
 #increment-btn {
@@ -36,7 +50,7 @@ button {
 }
 
 #save-btn {
-    margin-top: 15px;
+    margin-top: 20px;
     background: green;
     width: 200px;
     height: 50px;
