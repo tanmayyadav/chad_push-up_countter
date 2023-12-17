@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/850/951/desktop-wallpaper-11-giga-chad-ideas-giga-chad-thumbnail.jpg");
+    background-size: cover;
+    font-family: Russo one , 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color:#ffffff 
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 5px;
+    border-radius: 50%;
+    height: 70vh
+}
+
+#increment-btn {
+    background: #A4031F;
+}
+
+#save-btn {
+    margin-top: 15px;
+    background: green;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+}
+
